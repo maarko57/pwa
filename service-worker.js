@@ -1,7 +1,7 @@
 const CACHE_NAME = 'pwa-cache-v3'; // Change this to update the cache
 const cacheUrls = [
     '/',
-    '/index.html', // Add any other HTML files you have
+    '/pwa/index.html', // Add any other HTML files you have
     '/styles.css',
     '/app.js',
     '/pwa.png',
