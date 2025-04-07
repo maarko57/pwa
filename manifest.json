@@ -3,7 +3,7 @@
     "short_name": "PWA Website",
     "description": "A simple PWA",
     "author": "Maarko",
-    "start_url": "/",
+    "start_url": "/pwa",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4caf50",
